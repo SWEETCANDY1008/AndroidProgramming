@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="strBtn1">첫번째 버튼</string>
+    <string name="strBtn2">두번째 버튼</string>
+    <string name="strBtn3">세번째 버튼</string>
+</resources>
